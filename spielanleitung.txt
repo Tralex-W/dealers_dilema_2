@@ -1,0 +1,72 @@
+Willkommen in der Unterwelt.
+Die Stadt schlaeft nie. In den schmutzigen Gassen, den glitzernden Hochhaeusern und den verruchten Vierteln tobt ein unsichtbarer Krieg. 
+Ein Krieg um Macht, Einfluss und Reichtum. Du und deine Mitspieler betretet die duestere Welt des Drogenhandels, in der nur die Mutigsten ueberleben.
+Hier ist niemand dein Freund. Jeder Schritt birgt Risiko, jede Entscheidung kann ueber Leben und Tod entscheiden. Dein Ziel? Die Stadt zu dominieren, Viertel fuer Viertel.
+Und dabei alle Konkurrenten aus dem Weg zu raeumen.
+Ausgestattet mit nichts als einem kleinen Lager, einem Startkapital und deinem ersten Lieferanten, ist es an dir, ein unaufhaltsames Imperium aufzubauen. 
+Doch Vorsicht: Die Polizei lauert hinter jeder Ecke, und ein unueberlegter Schachzug koennte dein Ende bedeuten. 
+Wie weit wirst du gehen, um der groesste Drogenboss der Stadt zu werden?
+
+Die Stadtkarte liegt vor euch. Sie ist in verschiedene Viertel unterteilt, jedes ein potenzieller Goldesel, wenn du es schaffst, die Kontrolle an dich zu reissen. 
+Doch Achtung: Je mehr Macht du gewinnst, desto gefaehrlicher wird die Konkurrenz – und die Behoerden sind dir immer dicht auf den Fersen.
+Zu Beginn waehlt jeder Spieler eine Läufer-Figur und platziert sie in einem beliebigen Viertel. 
+Dein Smartphone wird zur Schaltzentrale deines Imperiums: Scanne den QR-Code, um dich mit der Online-Welt von Dealer’s Dilemma zu verbinden. 
+Die Webseite informiert dich ueber zufaellige Ereignisse, die sich jede Runde ereignen, und zeigt dir deine Einnahmen, die Kundenzahlen in jedem Viertel und die aktuelle Kontrolle ueber die Stadt.
+
+Jeder Spieler startet mit:
+Einem Läufer: in dieser gefaehrlichen Welt.
+Zwei kleinen Sicherheitslager mit Sicherheitsstufe 1: Dein Hauptquartier – noch klein, aber ausbaufaehig.
+Einem Startkapital von 500€: Dein erster Geldvorrat, um Lieferanten, Laeufer und andere Ressourcen zu kaufen.
+Einem Cannabis-Lieferanten: Dein Einstieg in das Geschaeft – geringe Margen, aber ein sicherer Anfang.
+
+Jede Runde kannst du dein Kapital nutzen, um zu wachsen:
+Kaufe neue Lieferanten, die dir staerkere, profitablere Drogen bringen. In jeder Runde, kannst du deine Figuren auf dem Spielfeld frei bewegen.
+Stelle Laeufer ein, um mehr Viertel zu kontrollieren und deine Praesenz zu sichern. Laeufer sind zusaetzliche Figuren eines Spielers.
+Bewege deine Figuren, pro Figur einmal pro Runde.
+Investiere in Sicherheitslager, um dein wachsendes Imperium auszubauen und zu schuetzen.
+Ein Sicherheitslager gehoert dabei jeweils zu einem Lieferanten, was zu welchem Sicherheitslager gehoert kann frei im Spiel veraendert werden. 
+Das tauschen von verschiedenen Karten unter den Spielern ist gesattet. Der Verkauf von Karten zum selben Preis ist auch gestattet.
+
+Um ein Viertel zu dominieren, brauchst du uebermacht. Hast du mehr als doppelt so viele Figuren (Laeufer) in einem Viertel wie dein staerkster Gegner, 
+uebernimmst du die vollstaendige Kontrolle. Die Figuren deiner Gegner werden gnadenlos entfernt. Doch das hat seinen Preis: Laeufer , 
+die lange in einem Viertel verweilen, ziehen die Aufmerksamkeit der Polizei auf sich. Je laenger du bleibst, desto groesser wird dein Kundenstamm 
+und desto hoeher das Risiko geschnappt zu werden.
+
+Lieferanten sind das Rueckgrat deines Imperiums. Jeder Lieferant liefert dir spezifische Drogen mit einzigartigen Gewinnspannen:
+Guenstige Anschaffung -> geringerer Profit.
+hoher Gewinn pro Kunde -> teurer in der Anschaffung.
+Die Webseite informiert dich am Ende jeder Runde, wie viele Kunden in den Vierteln waren und wie viel Profit du gemacht hast. Der Multiplikator des Lieferanten 
+in Kombination mit der Kundenzahl entscheidet ueber dein Einkommen. Ein Taschenrechner wird empfohlen. Sollte dein Einkommen eine Dezimalzahl sein, wird dieses nach oben gerundet. 
+Aber Achtung: Wirst du geschnappt, ist der Lieferant verloren, unwiderruflich.
+
+
+Am Anfang jeder Runde loest die Webseite ein zufaelliges Ereignis aus. Diese Ereignisse bringen Chaos und Spannung ins Spiel:
+Polizeipatrouillen: Figuren in einem bestimmten Viertel riskieren Verhaftung.
+Razzien: Lager mit niedriger Sicherheitsstufe und damit auch der dazugehoerige Lieferant und Laeufer, koennen beschlagnahmt werden. Lager mit legalen Drogen (Cannabis), sowie der dazugehörige Lieferant und Läufer können nicht vom Staat gefasst werden.
+Grossereignisse: ploetzliche Kundenstroeme in bestimmten Vierteln, perfekt fuer schnelle Gewinne.
+Veraendert das Ereignis einen Preis, so ist dieser noch nicht eingerechnet und muss selbstaendig vom Spieler mit einberechnet werden. 
+Bist du vorbereitet oder wird ein einzelnes Ereignis dein Imperium ins Wanken bringen? 
+
+Bestechung und Gewalt
+Einige Probleme lassen sich mit Geld loesen. Bestechungskarten ermoeglichen dir, dich aus der Schlinge zu ziehen:
+Wenn du geschnappt wirst, kannst du mit einer Bestechungskarte und einem Wuerfelwurf frei kommen. 
+Es gibt die Möglichkeit die Polizei, das Gericht oder den Bundeskanzler zu bestechen. Mit einem Wuerfel wird entschieden, ob die Bestechung durch geht.
+Damit die Bestechung der Polizei durchgeht, muss vom Spieler eine Zahl zwischen 1 und 3 gewuerfelt werden, für das Gericht eine Zahl zwischen 1 und 4. 
+Die Bestechung des Bundeskanzlers negiert jedes Ereignis der Justiz.
+Doch die Chance haengt davon ab, wie viel du investierst.
+
+Das grosse Ziel
+Der Weg zum Sieg fuehrt ueber die Kontrolle der Stadt. 
+Ziel ist es, eine bestimmte Anzahl von Vierteln zu uebernehmen.
+Diese haengt von der Anzahl der Spieler ab und wird automatisch von der Webseite berechnet. Sollte in Spieler gewinnen, erscheint dies auf den Bildschrim. Doch Vorsicht: Je maechtiger du wirst, desto mehr Feinde machst du dir.
+Spieler koennen dich aus einem Viertel verdraengen, wenn sie mehr Figuren dort haben. Es ist ein endloser Tanz zwischen Angriff, Verteidigung und Expansion.
+
+Deine Strategie, dein Imperium
+Jede Runde stellt dich vor neue Herausforderungen: Investierst du in Bestechungskarten, Laeufer oder staerkere Lieferanten? 
+Riskierst du es, in einem umkaempften Viertel zu bleiben oder ziehst du dich zurueck, um Verluste zu minimieren? 
+Du entscheidest, ob du ein skrupelloser Tyrann bist, der seine Gegner mit Gewalt aus dem Weg raeumt oder ein gerissener Stratege,
+der die Polizei geschickt mit Geld fernhaelt. Deine Entscheidungen formen dein Imperium und bestimmen, ob du als Koenig der Stadt endest oder im Gefaengnis landest.
+
+Der Kampf um die Unterwelt beginnt
+Du bist bereit. Die Stadt gehoert dir – oder wird sie dich verschlingen?
+Mit jedem Zug waechst die Spannung. Jede Runde bringt neue Moeglichkeiten und Gefahren. Am Ende kann nur einer die Kontrolle ueber die Stadt uebernehmen.

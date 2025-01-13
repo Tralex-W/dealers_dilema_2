@@ -1,0 +1,428 @@
+{
+  "drogen": [
+    {
+      "name": "Kokain"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Heroin"
+    },
+    {
+      "name": "Crystal Meth"
+    },
+    {
+      "name": "Ecstacy"
+    },
+    {
+      "name": "LSD"
+    },
+    {
+      "name": "Xanax"
+    },
+    {
+      "name": "Speed"
+    },
+    {
+      "name": "Crack"
+    },
+    {
+      "name": "Pilze"
+    }
+  ],
+  "lieferanten": [
+    {
+      "name": "Jose",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Jens W.",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Bunsas Abi",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Klee",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Juan",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Joel",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Achmed",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Gabriel",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Marten",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Magnus",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Aldric",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Eberhard",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Guenter",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Harald",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Niklas",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Theo",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Aron",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Kai",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Lewi",
+      "dorge": "Xanax"
+    },
+    {
+      "name": "Konrad",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Friedrich",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Otto",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Werner",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Kilian",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Milan",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Edward",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "James",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Liam",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Jasper",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Luka",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Leonardo",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "William",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Henry",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Charles",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Ethan",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Ezra",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Arthur",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Leszek",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Oskar",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Damian",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Donat",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Fabian",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Oliver",
+      "dorge": "Pilze"
+    },
+    {
+      "name": "Murat",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Selim",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Zeynep",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Jan",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Michael",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Borys",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Yigit",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Aras",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Denniz",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Orhan",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Toprak",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Kerim",
+      "dorge": "Crack"
+    },
+    {
+      "name": "Thomas",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Mueller",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Emir",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Kaan",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Mert",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Ozan",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Pablo",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Noah",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Petro",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Elfredo",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Tjargo",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Bruno",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Omar",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Enzo",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Hugo",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Leo",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Matteo",
+      "dorge": "Kokain"
+    },
+    {
+      "name": "Marcos",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Miguel",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Pedro",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Alvaro",
+      "dorge": "LSD"
+    },
+    {
+      "name": "Ali",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Memmet",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Mustafa",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Osman",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Yusuf",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Chan",
+      "dorge": "Speed"
+    },
+    {
+      "name": "Viktor",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Samuel",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Alejandro",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Daniel",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Manfred",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Willhelm",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Javier",
+      "dorge": "Cannabis"
+    },
+    {
+      "name": "Dimitri",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Alexavier",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Andreas",
+      "dorge": "Ecstacy"
+    },
+    {
+      "name": "Bernhard",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Dietrich",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Conrad",
+      "dorge": "Crystal Meth"
+    },
+    {
+      "name": "Sol",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Mar",
+      "dorge": "Heroin"
+    },
+    {
+      "name": "Salvador",
+      "dorge": "Heroin"
+    }
+  ]
+}

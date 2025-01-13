@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "text": "Sirenen durchbrechen die Stille der Nacht, als Polizeiwagen den Block *B* umstellen. Die Razzia ist gnadenlos, und viele Geschaefte in diesem Gebiet werden lahmgelegt. Spieler, die hier operieren, verlieren ihr gesamtes aktuelles Lager mit Inhalt (Lieferant und Laeufer) fuer dieses Feld",
+      "probability": 0.1,
+      "min_round": 6
+    },
+    {
+      "text": "Ein schwarzer SUV rollt in Block *B*, und schwer bewaffnete Mitglieder einer rivalisierenden Gang steigen aus. Sie beanspruchen den Block fuer sich, und jeder Versuch, hier weiter zu handeln, koennte gefaehrlich werden. Spieler in diesem Gebiet verlieren die Kontrolle ueber ihre Operationen und ihre Gewinne sinken drastisch. Die Spieler verlieren das Lager, sowie die Figur und den Lieferanten fier dieses Feld",
+      "probability": 0.1,
+      "min_round": 6
+    },
+    {
+      "text": "Eine Nachricht macht die Runde: Lieferant *L* wurde von der Polizei geschnappt. Die Versorgungskette ist unterbrochen von *LD*, der Spieler, der auf diesen Lieferanten angewiesen waren, stehen ohne Nachschub da. Der Lieferant fliegt Permanent aus dem Spiel",
+      "probability": 0.1,
+      "min_round": 4
+    },
+    {
+      "text": "Ein anonymer Tipp hat die Polizei auf die Spur aller Lager mit Sicherheitsstufe *S* gebracht. In einer koordinierten Aktion werden sie ausgehoben. Spieler verlieren alle Bestaende (Laeufer und Lieferant), die sie in diesen Lagern gespeichert hatten. (Nur 1 Lager pro Spieler)",
+      "probability": 0.1,
+      "min_round": 5
+    },
+    {
+      "text": "Der Druck der Behoerden zeigt Wirkung: Alle Laeufer in Block *B* haben die Seiten gewechselt und Informationen ueber ihre Auftraggeber preisgegeben. Spieler in diesem Block stehen vor drohenden Gefaengnisstrafen und muessen alle Figuren aus diesem Gebiet abziehen. Alle Laeufer in diesem Feld sind nun frei.",
+      "probability": 0.1,
+      "min_round": 8
+    },
+    {
+      "text": "Block *B* wird zur Goldgrube: Spieler, die hier operieren, verdoppeln fuer diese Runde ihre Einnahmen.",
+      "probability": 0.1,
+      "min_round": 1
+    },
+    {
+      "text": "Die Gerichte aechtzen unter einer Flut von Faellen. Fuer zwei Runden gibt es keine Gefaengnisstrafen, egal welche Vergehen begangen werden. Die Spieler haben freien Handlungsspielraum, ohne sich Sorgen machen zu muessen.",
+      "probability": 0.1,
+      "min_round": 1
+    },
+    {
+      "text": "Eine Welle von neuen Quellen hat den Markt fuer *D* ueberschwemmt, was die Preise fallen laesst. Spieler, die diese Droge verkaufen, muessen mit sinkenden Gewinnen rechnen. Fuer diese Runde halbiert sich ihr Gewinn.",
+      "probability": 0.1,
+      "min_round": 1
+    },
+    {
+      "text": "Knappheit treibt die Preise in die Hoehe: *D* ist zur heiss begehrten Ware geworden. Spieler, die diese Droge verkaufen, erhalten doppelt so viel Geld fuer eine Runde.",
+      "probability": 0.1,
+      "min_round": 1
+    },
+    {
+      "text": "Die Nachricht ist ein Schock: Lieferant *L*, eine zentrale Figur in der Unterwelt, wurde endgueltig aus dem Verkehr gezogen. Spieler, die auf sein *LD* angewiesen waren, muessen ihre Strategien neu ueberdenken, da der Nachschub dauerhaft versiegt ist.",
+      "probability": 0.3,
+      "min_round": 4
+    },
+    {
+      "text": "Neue Ressourcen und Technik staerken die Justiz. In einer Grossoffensive wird in jedem Block ein Laeufer geschnappt. Spieler verlieren wichtige Figuren und muessen ihre Operationen neu strukturieren.",
+      "probability": 0.05,
+      "min_round": 30
+    },
+    {
+      "text": "Eine gesellschaftliche Krise treibt die Nachfrage nach oben. Fuer eine Runde steigen die Umsaetze aller Spieler auf das Doppelte. Dies ist die Gelegenheit, Lager zu leeren und Gewinne zu maximieren.",
+      "probability": 0.1,
+      "min_round": 1
+    },
+    {
+      "text": "Eine ploetzliche Panik in der Bevoelkerung fuehrt dazu, dass weniger Menschen Drogen konsumieren. Fuer eine Runde brechen die Einnahmen aller Spieler ein. Somit halbieren sich die Gewinne aller Spieler. Ein harter Schlag fuer die Unterwelt.",
+      "probability": 0.1,
+      "min_round": 1
+    },
+    {
+      "text": "Mit den Ressourcen der Polizei steht es schlecht: Fuer eine Runden koennen die Spieler frei agieren, ohne sich vor Razzien oder anderen Eingriffen zu fuerchten. Eine kurze, aber wertvolle Ruhepause im Spiel.",
+      "probability": 0.1,
+      "min_round": 1
+    }
+  ]
+}

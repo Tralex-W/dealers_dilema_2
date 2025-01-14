@@ -98,8 +98,8 @@ class Field:
         print(self.board)
 
     def player_has_won(self):
-        N = max(2, math.floor(9 / st.session_state.number_of_players))
-
+        N = max(3, math.floor(9 / st.session_state.number_of_players))
+        
         field_dominance = {}
 
         for field in self.board:
